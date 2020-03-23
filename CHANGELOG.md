@@ -3,6 +3,26 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [6.0.3] - 2020-02-17
+
+### Changed
+
+- Update to Laravel commit: c78a1d8184f00f8270d8a135cc21590837b6bfbd
+- Fix log viewer error
+- Rename include_route_files to include_files_in_folder
+- Update form-control-file class
+
+## [6.0.2] - 2020-01-01
+
+### Changed
+
+- Updated to Laravel commit: 25c36eb592c57e075acc32a12703005f67c4ec10
+- Updated ignition
+- Update laravel min version
+- Make avatar field on social_accounts text to account for Google
+- Fix user dropdown
+- Package updates
+
 ## [6.0.1] - 2019-10-22
 
 ### Added
@@ -156,7 +176,9 @@ All notable changes to this project will be documented in this file.
 - Fix yarn tests
 - Fix: Socially logged in users get assigned the default role
 
-[Unreleased]: https://github.com/rappasoft/laravel-boilerplate/compare/v6.0.1...development
+[Unreleased]: https://github.com/rappasoft/laravel-boilerplate/compare/v6.0.3...development
+[6.0.3]: https://github.com/rappasoft/laravel-boilerplate/compare/v6.0.2...v6.0.3
+[6.0.2]: https://github.com/rappasoft/laravel-boilerplate/compare/v6.0.1...v6.0.2
 [6.0.1]: https://github.com/rappasoft/laravel-boilerplate/compare/v6.0.0...v6.0.1
 [6.0.0]: https://github.com/rappasoft/laravel-boilerplate/compare/v5.3.8...v6.0.0
 [5.3.8]: https://github.com/rappasoft/laravel-boilerplate/compare/v5.3.7...v5.3.8
